@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="253dabf4-515b-4d3b-9d34-133237922df3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/DEMOS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloned-empty-project/empty-project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../empty-project/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../empty-project/submodule" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../express/.idea/express.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/.idea/koa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/koa2-app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/koa2-app/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/koa2-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/koa2-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/koa2-app/public/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/koa2-app/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/koa2-app/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/koa2-app/views/error.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../koa/koa2-app/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/.idea/react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/react-cli-demo/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/react-cli-demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/react-cli-demo/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/react-cli-demo/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/.idea/vitejs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/src/components/Modal/Modal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/src/components/countComp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vitejs/vite-app/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vue3-experiment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/shims-tsx.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/shims-vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/views/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-next-test/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k56Xnf8t7xp6osBvvGOD6Asu5S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="253dabf4-515b-4d3b-9d34-133237922df3" name="Default Changelist" comment="" />
+      <created>1604978146983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604978146983</updated>
+      <workItem from="1604978148014" duration="4656000" />
+      <workItem from="1604991428401" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

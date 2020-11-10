@@ -1,0 +1,4 @@
+[submodule "submodule"]
+	path = submodule
+	url = http://172.16.124.101/submodule-demo/submodule.git
+	branch = stable
